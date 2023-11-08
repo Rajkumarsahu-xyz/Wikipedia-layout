@@ -13,7 +13,7 @@ header {
 .main-navbar {
     margin: auto;
     height: auto;
-    width: 50vw;
+    width: 60vw;
 }
 
 .main-section {
@@ -22,7 +22,7 @@ header {
     flex-direction: row;
     flex-wrap: wrap;
     height: 100vh;
-    width: 50vw;
+    width: 60vw;
     background-color: whitesmoke;
 }
 
@@ -33,32 +33,32 @@ header {
 
 .aside-container {
     flex-grow: 4.8;
-    background-color: lightcyan;
+    background-color: cyan;
 }
 
 .featured-article-container {
     height: 35vh;
-    width: 30vw;
+    width: 35vw;
 }
 
 .dyk-container {
     height: 45vh;
-    width: 30vw;
+    width: 35vw;
 }
 
 .news-container {
     height: 30vh;
-    width: 20vw;
+    width: 25vw;
 }
 
 .otd-container {
     height: 50vh;
-    width: 20vw;
+    width: 25vw;
 }
 
 .featured-picture-container {
     height: 20vh;
-    width: 50vw;
+    width: 60vw;
     background-color: lightpink;
 }
 
